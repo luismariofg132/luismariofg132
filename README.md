@@ -2,6 +2,7 @@
 <h3 align="center">Desarrollador Backend C# NodeJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismariofg132&label=Profile%20views&color=0e75b6&style=flat" alt="luismariofg132" /> </p>
+![](https://hit.yhype.me/github/profile?user_id=70932146)
 
 [![wakatime](https://wakatime.com/badge/user/84fa8cde-5bae-452e-b966-4596347ebea3.svg)](https://wakatime.com/@84fa8cde-5bae-452e-b966-4596347ebea3)
 
